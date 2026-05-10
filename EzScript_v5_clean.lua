@@ -1135,3 +1135,5 @@ _G.EzScriptCleanup = function()
 end
 
 print("[EzScript v5] F=Predict, G=Look, V=Serve, P=Timeskip, O=Kijo, R=Ronin, End=destroy")
+
+end -- do main scope
